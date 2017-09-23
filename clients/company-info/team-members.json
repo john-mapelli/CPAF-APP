@@ -1,0 +1,34 @@
+[
+	{
+		"firstname": "Lou",
+		"lastname": "Cannataro",
+		"address": ["245 Park Ave, Suite 1800", "New York, NY 10167"],
+		"telephones":[
+			{
+				"type": "office",
+				"number": 6463666571
+			}
+		],
+		"email": "cannataro.paf@nm.com",
+		"group": "Wealth Managment",
+		"role": "Partner/Wealth Management Advisor",
+		"titles":["ChFC", "REBC", "AEP", "CASL", "CLU", "CLTC", "MBA"],
+		"about": "Twenty-five years of investment experience within the Northwestern Mutual Welath Management Company. \nOur clients have chosen to work with us because we build significant relationships based on integrity, loyalty and a true understanding of their situation. \nWe strive to do what is in our clients' best interest by finding out what it is that they truly care about.  We then can provide solutions that address their greatest challenges and help capture new opportunities. \nOur team will be an ongoing resource in helping to educate, organize and execute solutions for now and in the future."
+	},
+	{
+		"firstname": "John",
+		"lastname": "Mapelli",
+		"address": ["115 W 23rd Street, Apt 22", "New York, NY 10011"],
+		"telephones":[
+			{
+				"type": "cell",
+				"number": 8456429208
+			}
+		],
+		"email": "jmapelli@gmail.com",
+		"group": "Computing Consultant",
+		"role": "Developer",
+		"titles":["BSc"],
+		"about": "John Mapelli is a computer programmer.  He has developed this app using Javascript, HTML/CSS, and Node.js (Electron). \nHe is from West Nyack New York, and now lives in Manhattan.  He attended the University of Notre Dame where he recieved a degree in Computer Science"
+	}
+]

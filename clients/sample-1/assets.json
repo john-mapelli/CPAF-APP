@@ -1,0 +1,73 @@
+[
+		{
+		"name" : "Cash Reserves",
+		"type" : "Cash",
+		"owner" : "Mr & Mrs",
+		"amount" : "1300000",
+		"monthly allocation" : "400",
+		"strategy" : "Defensive",
+		"group level 1" : "Cash",
+		"group level 2" : "Cash",
+		"group level 3" : "Cash"
+		},
+
+		{
+		"name" : "Mr. Trust Account",
+		"type" : "Cash",
+		"owner" : "Mr.",
+		"amount" : "3057043",
+		"monthly allocation" : "800",
+		"strategy" : "Defensive",
+		"group level 1" : "Trust Account",
+		"group level 2" : "Trust Account",
+		"group level 3" : "Trust Account"
+		},
+
+		{
+		"name" : "Roth IRA",
+		"type" : "IRA",
+		"owner" : "Mr.",
+		"amount" : "500000",
+		"monthly allocation" : "100",
+		"strategy" : "Offensive",
+		"group level 1" : "Retirement",
+		"group level 2" : "IRA",
+		"group level 3" : "Roth"
+		},
+
+		{
+		"name" : "Child #2 529 Plan",
+		"type" : "College",
+		"owner" : "Mr. and Mrs.",
+		"amount" : "39387.20",
+		"monthly allocation" : "600",
+		"strategy" : "Offensive",
+		"group level 1" : "College Savings",
+		"group level 2" : "529 Plan",
+		"group level 3" : "529 Plan"
+		},
+
+		{
+		"name" : "401k",
+		"type" : "Retirement",
+		"owner" : "Mr.",
+		"amount" : "1003921",
+		"monthly allocation" : "245",
+		"strategy" : "Offensive",
+		"group level 1" : "Retirement",
+		"group level 2" : "401k",
+		"group level 3" : "401k"
+		},
+
+		{
+		"name" : "Child #3 529 Plan",
+		"type" : "College",
+		"owner" : "Mr. and Mrs.",
+		"amount" : "149492",
+		"monthly allocation" : "475",
+		"strategy" : "Offensive",
+		"group level 1" : "College Savings",
+		"group level 2" : "529 Plan",
+		"group level 3" : "529 Plan"
+		}
+	]
